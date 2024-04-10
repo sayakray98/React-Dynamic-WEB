@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Caslon+Text:ital,wght@0,400;0,700;1,400&family=Manrope:wght@200..800&display=swap');
+
+
 .App {
   text-align: center;
 }
@@ -32,7 +35,67 @@
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }
+}
+
+.headernav {
+  color: #384476 !important;
+  margin-right: 18px !important;
+  font-family: "Manrope", sans-serif;
+  font-size: 14px;
+}
+
+.navbar-brand {
+  font-weight: bold !important;
+  color: #486978 !important;
+  font-size: 40px;
+
+
+}
+
+.navbar {
+  background: url(http://localhost:3000/static/media/newcircle.8ed0b98c0ff84b149357.png) !important;
+  background-size: 152px !important;
+  background-repeat: no-repeat !important;
+  background-position-Y: -17px !important;
+  background-position-X: -73px !important;
+  padding: 20px 20px !important;
+  padding-bottom: 37px !important;
+  z-index: 999;
+}
+
+.image1 img {
+  transform: translateY(-160px);
+  width: 800px;
+}
+
+.sideheader {
+  margin-top: 70px;
+}
+
+.sideheader h1 {
+  font-weight: bold;
+  font-size: 80px;
+  font-family: "Libre Caslon Text", serif;
+  color: #486978 !important;
+}
+
+.sideheader h2{
+  font-family:'manrope','san-serif';
+  color: #486978 !important;
+}
+
+.sideheader a {
+  color: white;
+  background: #d41838;
+  padding: 10px;
+  border-radius: 50px;
+  font-weight: 600;
+}
+
+.sideheader p{
+  margin-bottom: 35px;
 }
