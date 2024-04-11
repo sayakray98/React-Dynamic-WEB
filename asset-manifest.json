@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/React-Dynamic-WEB/static/css/main.a300437a.css",
-    "main.js": "/React-Dynamic-WEB/static/js/main.0f7c4bc9.js",
-    "static/js/453.d31120cd.chunk.js": "/React-Dynamic-WEB/static/js/453.d31120cd.chunk.js",
-    "static/media/newsave.png": "/React-Dynamic-WEB/static/media/newsave.ca6a6a5f614c8405c613.png",
-    "static/media/newcircle.png": "/React-Dynamic-WEB/static/media/newcircle.8ed0b98c0ff84b149357.png",
-    "index.html": "/React-Dynamic-WEB/index.html",
-    "main.a300437a.css.map": "/React-Dynamic-WEB/static/css/main.a300437a.css.map",
-    "main.0f7c4bc9.js.map": "/React-Dynamic-WEB/static/js/main.0f7c4bc9.js.map",
-    "453.d31120cd.chunk.js.map": "/React-Dynamic-WEB/static/js/453.d31120cd.chunk.js.map"
+    "main.css": "/gitfolder/static/css/main.c263b9d5.css",
+    "main.js": "/gitfolder/static/js/main.4d4175dd.js",
+    "static/js/453.d31120cd.chunk.js": "/gitfolder/static/js/453.d31120cd.chunk.js",
+    "static/media/newsave.png": "/gitfolder/static/media/newsave.ca6a6a5f614c8405c613.png",
+    "static/media/newcircle.png": "/gitfolder/static/media/newcircle.8ed0b98c0ff84b149357.png",
+    "index.html": "/gitfolder/index.html",
+    "main.c263b9d5.css.map": "/gitfolder/static/css/main.c263b9d5.css.map",
+    "main.4d4175dd.js.map": "/gitfolder/static/js/main.4d4175dd.js.map",
+    "453.d31120cd.chunk.js.map": "/gitfolder/static/js/453.d31120cd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a300437a.css",
-    "static/js/main.0f7c4bc9.js"
+    "static/css/main.c263b9d5.css",
+    "static/js/main.4d4175dd.js"
   ]
 }
